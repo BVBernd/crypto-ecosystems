@@ -3,8 +3,24 @@ title = "Polymesh"
 
 sub_ecosystems = []
 
-github_organizations = []
+github_organizations = ["https://github.com/PolymeshAssociation"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/PolymeshAssociation/polymesh-local"
+url = "https://github.com/PolymeshAssociation/Polymesh"
+tags = [ "Node"]
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-sdk"
+tags = [ "SDK"]
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-rest-api"
+tags = [ "API"]
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/signing-managers"
+tags = [ "Signing Managers"]
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-subquery"
